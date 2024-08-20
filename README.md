@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msaqlain-tasdev&show_icons=true&locale=en" alt="msaqlain-tasdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msaqlain-dev&" alt="msaqlain-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msaqlain-tasdev&" alt="msaqlain-tasdev" /></p>
