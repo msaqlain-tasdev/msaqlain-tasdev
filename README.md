@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter, Android, React, Frontend, Backend, AI & ML**
 
-- 📫 How to reach me **muhammadsaqlain.dev@gmail.com**
+- 📫 How to reach me **sm@technoholicas.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
